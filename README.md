@@ -76,12 +76,12 @@ docker run -p 80:80 culinary-quest
 
 The Culinary Quest Recipe Collection website leverages the following technologies:
 
-HTML - Used for structuring the web pages.
-CSS - Used for styling the website.
-JavaScript - Used for adding interactivity and logic.
-Vite.js - A fast build tool and development server.
-Tailwind CSS - A utility-first CSS framework for rapid UI development.
-Docker - A containerization platform for easy deployment.
+- HTML - Used for structuring the web pages.
+- CSS - Used for styling the website.
+- JavaScript - Used for adding interactivity and logic.
+- Vite.js - A fast build tool and development server.
+- Tailwind CSS - A utility-first CSS framework for rapid UI development.
+- Docker - A containerization platform for easy deployment.
 
 ## Contributing
 
