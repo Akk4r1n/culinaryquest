@@ -1,0 +1,2873 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "description": "A classic Italian pizza topped with tomato, mozzarella, and basil.",
+    "image": "pexels-jonathan-borba-14590497.jpg",
+    "tags": [
+      "Pizza",
+      "Italian",
+      "Italy",
+      "Tomato",
+      "Cheese",
+      "Basil",
+      "Summer",
+      "Party",
+      "Fast",
+      "Cheap",
+      "Party Snacks"
+    ],
+    "ingredients": [
+      {
+        "name": "Pizza Dough",
+        "quantity": 1,
+        "unit": "batch"
+      },
+      {
+        "name": "Tomato Sauce",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Mozzarella Cheese",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Fresh Basil",
+        "quantity": 1,
+        "unit": "bunch"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 1200,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.5,
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "preparation": "1. Preheat oven to 425°F.\n2. Roll out pizza dough on a floured board until it reaches desired size.\n3. Place pizza dough on a baking sheet or pizza pan.\n4. Spread tomato sauce on pizza dough.\n5. Spread grated mozzarella on top of tomato sauce.\n6. Cut basil into strips and sprinkle on top of pizza.\n7. Bake pizza in preheated oven for 15-20 minutes, or until crust is golden brown and cheese is bubbly and melted.\n8. Remove pizza from oven and let cool for 2-3 minutes before serving."
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish made with spaghetti, eggs, bacon, and Parmesan cheese.",
+    "image": "pexels-sebastian-coman-photography-3606799.jpg",
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Bacon",
+      "Eggs",
+      "Parmesan",
+      "Winter",
+      "Dinner",
+      "Comfort food",
+      "Creamy",
+      "Main Courses"
+    ],
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "quantity": 12,
+        "unit": "oz"
+      },
+      {
+        "name": "Bacon",
+        "quantity": 6,
+        "unit": "slices"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Parmesan Cheese",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 800,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 90,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.8,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "preparation": "1. Cook spaghetti in boiling salted water until al dente.\n2. While the spaghetti is cooking, chop the bacon and cook it in a large skillet until crispy. Remove bacon and set aside.\n3. Whisk eggs, Parmesan cheese, garlic, salt, and black pepper in a bowl.\n4. When spaghetti is cooked, reserve 1 cup of pasta water and drain spaghetti.\n5. Add drained spaghetti to skillet with bacon and toss to combine.\n6. Remove skillet from heat and add egg mixture, stirring quickly to coat spaghetti (the heat from the spaghetti should cook the eggs without scrambling them). If the mixture is too thick, add reserved pasta water 1/4 cup at a time. Serve immediately."
+  },
+  {
+    "id": 3,
+    "name": "Vegetarian Wraps",
+    "description": "Delicious wraps filled with veggies and hummus",
+    "image": "pexels-zenith-photographics-15076695.jpg",
+    "tags": [
+      "Vegetarian",
+      "Wraps",
+      "Summer",
+      "Healthy",
+      "Quick",
+      "Easy",
+      "Lunch",
+      "Dinner",
+      "Meal Prep",
+      "Low-Calorie",
+      "Low-Fat",
+      "Low-Carb",
+      "Mediterranean",
+      "Party Snacks",
+      "Snacks"
+    ],
+    "ingredients": [
+      {
+        "name": "Whole Wheat Tortillas",
+        "quantity": 6,
+        "unit": ""
+      },
+      {
+        "name": "Hummus",
+        "quantity": 1,
+        "unit": "container"
+      },
+      {
+        "name": "Zucchini",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Red Onion",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Feta Cheese",
+        "quantity": 4,
+        "unit": "oz"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "quantity": 1,
+        "unit": "pinch"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 400,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 17,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.2,
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "preparation": "1. Slice the zucchini into thin rounds and sauté in olive oil until golden brown.\n2. Dice the tomatoes, chop the cucumber, and slice the red onion into thin rings.\n3. Warm the tortillas in the microwave for 10 seconds.\n4. Spread each tortilla with hummus, then top with the sautéed zucchini, tomatoes, cucumber, and onion.\n5. Sprinkle with feta cheese and season with salt, black pepper, and red pepper flakes.\n6. Roll up the wraps tightly and slice in half. Serve immediately or refrigerate for meal prep."
+  },
+  {
+    "id": 4,
+    "name": "Classic Cheeseburger",
+    "description": "A classic cheeseburger topped with ketchup, mustard, mayo, lettuce, tomato, cheese, and pickles.",
+    "image": "pexels-valeria-boltneva-1639557.jpg",
+    "tags": [
+      "Classic",
+      "Burger",
+      "American",
+      "Fast Food",
+      "Summer",
+      "Party",
+      "Beef",
+      "Cheese",
+      "Quick",
+      "Party Snacks",
+      "Dinner"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "quantity": 1,
+        "unit": "lb"
+      },
+      {
+        "name": "Hamburger Buns",
+        "quantity": 4,
+        "unit": ""
+      },
+      {
+        "name": "Lettuce",
+        "quantity": 4,
+        "unit": "leaves"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Cheddar Cheese",
+        "quantity": 4,
+        "unit": "slices"
+      },
+      {
+        "name": "Pickles",
+        "quantity": 4,
+        "unit": ""
+      },
+      {
+        "name": "Ketchup",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Mustard",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 800,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "preparation": "1. Preheat grill to high heat.\n2. Divide ground beef into 4 equal portions and form into patties.\n3. Brush both sides of the patties with oil and season with salt and black pepper.\n4. Grill patties for about 3-4 minutes per side, or until cooked to desired doneness.\n5. Toast hamburger buns on the grill for about 30 seconds, or until lightly browned.\n6. Spread ketchup, mustard, and mayonnaise on the bottom buns.\n7. Top with lettuce, tomato, cheese, and pickles.\n8. Place burger patties on top of the pickles.\n9. Serve immediately."
+  },
+  {
+    "id": 5,
+    "name": "Vegetarian Sushi Rolls",
+    "description": "Healthy and delicious sushi rolls filled with veggies and wrapped in seaweed.",
+    "image": "pexels-diego-pontes-2323398.jpg",
+    "tags": [
+      "Classic",
+      "Sushi",
+      "Vegetarian",
+      "Healthy",
+      "Japanese",
+      "Summer",
+      "Dinner",
+      "Party",
+      "Low-Calorie",
+      "Breakfast"
+    ],
+    "ingredients": [
+      {
+        "name": "Sushi Rice",
+        "quantity": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Water",
+        "quantity": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Sushi Vinegar",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Seaweed Sheets",
+        "quantity": 8,
+        "unit": ""
+      },
+      {
+        "name": "Carrots",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Avocado",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Radish Sprouts",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Wasabi",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 500,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.5,
+    "cookingTime": 60,
+    "difficulty": "Medium",
+    "preparation": "1. Rinse sushi rice until water runs clear.\n2. Add sushi rice and water to a pot and bring to a boil. Reduce the heat to low, cover, and let simmer for 20 minutes.\n3. Mix sushi vinegar into the cooked rice and let cool.\n4. Cut carrots, cucumber, and avocado into thin strips.\n5. Place a sheet of seaweed on a sushi mat.\n6. Spread a thin layer of rice onto the seaweed, leaving a 1-inch border on one edge.\n7. Add a line of carrots, cucumber, and avocado on top of the rice.\n8. Roll the sushi tightly using the mat, pressing firmly to shape it.\n9. Cut sushi roll into 8 pieces.\n10. Garnish with radish sprouts and serve with wasabi and soy sauce."
+  },
+  {
+    "id": 7,
+    "name": "Spinach and Feta Stuffed Peppers",
+    "description": "Colorful bell peppers stuffed with spinach, feta cheese, and aromatic spices.",
+    "image": "pexels-nadin-sh-15006869.jpg",
+    "tags": [
+      "Vegetarian",
+      "Healthy",
+      "Low-Carb",
+      "Low-Calorie",
+      "Summer",
+      "Dinner",
+      "Party",
+      "Mediterranean",
+      "Dinner"
+    ],
+    "ingredients": [
+      {
+        "name": "Bell Peppers",
+        "quantity": 4,
+        "unit": ""
+      },
+      {
+        "name": "Spinach",
+        "quantity": 4,
+        "unit": "cups"
+      },
+      {
+        "name": "Feta Cheese",
+        "quantity": 4,
+        "unit": "oz"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 1,
+        "unit": "bunch"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Paprika",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Cumin",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 300,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.6,
+    "cookingTime": 45,
+    "difficulty": "Easy",
+    "preparation": "1. Preheat oven to 375°F.\n2. Cut the tops off of the bell peppers and remove the cores and seeds.\n3. In a large skillet, heat olive oil over medium heat.\n4. Add onion and garlic and sauté for about 2-3 minutes, until softened.\n5. Add spinach, paprika, cumin, salt, and black pepper and sauté until spinach is wilted.\n6. Add feta cheese and parsley and stir until well combined.\n7. Stuff the bell peppers with the spinach and feta mixture.\n8. Place stuffed peppers in a baking dish and cover with foil.\n9. Bake for 30-35 minutes, until peppers are tender.\n10. Serve hot."
+  },
+  {
+    "id": 8,
+    "name": "Käsespätzle",
+    "description": "A traditional German dish made with egg noodles and layered with cheese and onions.",
+    "image": "pexels-shameel-mukkath-14930759.jpg",
+    "tags": [
+      "German",
+      "Noodles",
+      "Cheese",
+      "Quick",
+      "Easy",
+      "Dinner",
+      "Main Courses"
+    ],
+    "ingredients": [
+      {
+        "name": "Egg Noodles",
+        "quantity": 1,
+        "unit": "lb"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Butter",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Emmental Cheese",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Chives",
+        "quantity": 1,
+        "unit": "bunch"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 600,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.5,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "preparation": "1. Cook egg noodles according to package instructions.\n2. In a skillet, melt butter over medium heat.\n3. Add chopped onion and sauté until translucent.\n4. Layer half of the cooked noodles in the bottom of a baking dish.\n5. Add a layer of grated Emmental cheese over the noodles.\n6. Add a layer of sautéed onions over the cheese.\n7. Repeat layers of noodles, cheese, and onions.\n8. Bake in a preheated oven at 375°F for 10-15 minutes, until cheese is melted and bubbly.\n9. Garnish with chopped chives and serve hot."
+  },
+  {
+    "id": 9,
+    "name": "Tomato and Basil Bruschetta",
+    "description": "A classic Italian appetizer made with toasted bread, fresh tomatoes, and basil.",
+    "image": "pexels-kasumi-loffler-3535373.jpg",
+    "tags": [
+      "Italian",
+      "Appetizers",
+      "Tomatoes",
+      "Basil",
+      "Quick",
+      "Easy",
+      "Party Snacks",
+      "Snacks"
+    ],
+    "ingredients": [
+      {
+        "name": "Italian Bread",
+        "quantity": 1,
+        "unit": "loaf"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": 4,
+        "unit": ""
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "Basil",
+        "quantity": 1,
+        "unit": "bunch"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Balsamic Vinegar",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 200,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 27,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.9,
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "preparation": "1. Preheat oven to 375°F.\n2. Cut the Italian bread into slices and place on a baking sheet.\n3. Brush slices with olive oil and toast in the oven for 5-7 minutes, until lightly browned.\n4. In a bowl, combine diced tomatoes, minced garlic, chopped basil, olive oil, balsamic vinegar, salt, and black pepper.\n5. Spoon tomato mixture on top of the toasted bread slices.\n6. Serve immediately."
+  },
+  {
+    "id": 10,
+    "name": "Chicken Satay",
+    "description": "A popular street food in Southeast Asia, made with marinated chicken skewers and served with peanut sauce.",
+    "image": "pexels-enesfi̇lm-9056984.jpg",
+    "tags": [
+      "International",
+      "Southeast Asian",
+      "Chicken",
+      "Skewers",
+      "Spicy",
+      "Appetizers"
+    ],
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "quantity": 1,
+        "unit": "lb"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Lime Juice",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Garlic Powder",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Ground Cumin",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Ground Coriander",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Brown Sugar",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Coconut Milk",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Peanut Butter",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Sriracha Sauce",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Lime Juice",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Skewers",
+        "quantity": 8,
+        "unit": ""
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 400,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 30,
+    "difficulty": "Medium",
+    "preparation": "1. Cut chicken breasts into bite-sized pieces.\n2. In a bowl, combine soy sauce, lime juice, garlic powder, cumin, coriander, turmeric, and brown sugar.\n3. Add chicken to the bowl and toss to coat with the marinade.\n4. Thread chicken pieces onto skewers.\n5. Preheat grill or grill pan to medium-high heat.\n6. Cook chicken skewers for 5-6 minutes on each side, until chicken is cooked through.\n7. In a saucepan, whisk together coconut milk, peanut butter, sriracha sauce, and lime juice. Cook over medium heat until sauce is heated through.\n8. Serve chicken skewers with peanut sauce for dipping."
+  },
+  {
+    "id": 11,
+    "name": "Shrimp Pad Thai",
+    "description": "A classic Thai dish made with rice noodles, shrimp, and vegetables, stir-fried in a tangy, sweet, and savory sauce.",
+    "image": "pexels-markus-winkler-12481161.jpg",
+    "tags": [
+      "International",
+      "Thai",
+      "Shrimp",
+      "Noodles",
+      "Stir-Fry",
+      "Dinner"
+    ],
+    "ingredients": [
+      {
+        "name": "Rice Noodles",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Shrimp",
+        "quantity": 1,
+        "unit": "lb"
+      },
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "Green Onion",
+        "quantity": 1,
+        "unit": "bunch"
+      },
+      {
+        "name": "Bean Sprouts",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Peanuts",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Cilantro",
+        "quantity": 1,
+        "unit": "bunch"
+      },
+      {
+        "name": "Lime",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fish Sauce",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Tamarind Paste",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 500,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.6,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "preparation": "1. Soak rice noodles in a bowl of cold water for 15-20 minutes, until softened.\n2. In a small bowl, whisk together fish sauce, tamarind paste, sugar, and soy sauce to make the pad Thai sauce.\n3. Heat oil in a large skillet or wok over medium-high heat.\n4. Add minced garlic and chopped green onion and cook until fragrant, about 1-2 minutes.\n5. Add shrimp and cook for 2-3 minutes, until pink.\n6. Push shrimp to the side of the pan and add a beaten egg. Scramble until cooked and then mix with the shrimp.\n7. Drain rice noodles and add to the pan. Toss with the shrimp and egg mixture.\n8. Pour the pad Thai sauce over the noodles and toss to coat.\n9. Add bean sprouts and chopped peanuts and toss to combine.\n10. Serve hot, garnished with fresh cilantro and a lime wedge."
+  },
+  {
+    "id": 18,
+    "name": "Falafel Wrap",
+    "description": "A delicious and healthy vegan wrap filled with crispy falafel, fresh veggies, and tahini sauce.",
+    "image": "pexels-alesia-kozik-6546034.jpg",
+    "tags": [
+      "Vegan",
+      "Healthy",
+      "Middle Eastern",
+      "Chickpeas",
+      "Falafel",
+      "Wrap",
+      "Fast"
+    ],
+    "ingredients": [
+      {
+        "name": "Falafel",
+        "quantity": 8,
+        "unit": "balls"
+      },
+      {
+        "name": "Tortilla Wrap",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Mixed Salad Greens",
+        "quantity": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tahini Sauce",
+        "quantity": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 800,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 90,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.6,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "preparation": "1. Warm the falafel balls in a microwave or oven.\n2. Warm the tortilla wrap slightly to make it more pliable.\n3. Spread tahini sauce on the tortilla wrap.\n4. Add salad greens, sliced tomato and cucumber on the wrap.\n5. Place warm falafel on top and wrap tightly.\n6. Enjoy immediately."
+  },
+  {
+    "id": 19,
+    "name": "Shrimp Scampi",
+    "description": "A classic Italian-American dish with sautéed shrimp in a light garlic-lemon sauce, served with pasta.",
+    "image": "pexels-farhad-ibrahimzade-8697539.jpg",
+    "tags": [
+      "Seafood",
+      "Italian",
+      "Shrimp",
+      "Pasta",
+      "Garlic",
+      "Lemon",
+      "Fast"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "quantity": 1,
+        "unit": "lb"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Spaghetti",
+        "quantity": 0.5,
+        "unit": "lb"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 800,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 90,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "preparation": "1. Cook the spaghetti in a large pot of boiling salted water.\n2. Sauté garlic in olive oil until fragrant.\n3. Add the shrimp and cook until they turn pink.\n4. Add the juice of a lemon and simmer for a few minutes.\n5. Toss the cooked spaghetti in the pan with the sauce.\n6. Serve immediately with a sprinkle of parsley and grated parmesan."
+  },
+  {
+    "id": 20,
+    "name": "Beef Bourguignon",
+    "description": "A traditional French dish featuring slow-cooked beef in red wine, with mushrooms and onions.",
+    "image": "pexels-valeria-boltneva-1251208.jpg",
+    "tags": [
+      "Beef",
+      "French",
+      "Comfort",
+      "Slow Cooked",
+      "Red Wine",
+      "Dinner",
+      "Main Courses"
+    ],
+    "ingredients": [
+      {
+        "name": "Beef Chuck",
+        "quantity": 2,
+        "unit": "lb"
+      },
+      {
+        "name": "Red Wine",
+        "quantity": 750,
+        "unit": "ml"
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Onions",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 1000,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 70,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.8,
+    "cookingTime": 180,
+    "difficulty": "Hard",
+    "preparation": "1. Brown the beef in a pot, then remove.\n2. Sauté onions, mushrooms, and garlic in the same pot.\n3. Add the beef back in, along with the wine.\n4. Cover and simmer for 2-3 hours, until the beef is tender.\n5. Serve with mashed potatoes or crusty bread."
+  },
+  {
+    "id": 21,
+    "name": "Chicken Caesar Salad",
+    "description": "A classic salad with grilled chicken, romaine lettuce, croutons, and homemade Caesar dressing.",
+    "image": "pexels-filllvlad-10273499.jpg",
+    "tags": ["Chicken", "Salad", "Healthy", "Fast", "Summer", "Breakfast"],
+    "ingredients": [
+      {
+        "name": "Chicken Breasts",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Romaine Lettuce",
+        "quantity": 1,
+        "unit": "head"
+      },
+      {
+        "name": "Croutons",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Caesar Dressing",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Parmesan Cheese",
+        "quantity": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 800,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.6,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "preparation": "1. Grill the chicken breasts until fully cooked, then slice.\n2. Tear the romaine lettuce into bite-sized pieces.\n3. Toss the lettuce with the Caesar dressing, croutons, and Parmesan cheese.\n4. Top the salad with the grilled chicken slices.\n5. Serve immediately."
+  },
+  {
+    "id": 22,
+    "name": "Pho",
+    "description": "A flavorful Vietnamese soup with rice noodles, herbs, and meat, typically beef or chicken.",
+    "image": "pexels-rdne-stock-project-6646068.jpg",
+    "tags": ["Soup", "Vietnamese", "Noodles", "Beef", "Herbs", "Comfort"],
+    "ingredients": [
+      {
+        "name": "Pho Noodles",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Beef Broth",
+        "quantity": 8,
+        "unit": "cups"
+      },
+      {
+        "name": "Beef Sirloin",
+        "quantity": 1,
+        "unit": "lb"
+      },
+      {
+        "name": "Bean Sprouts",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Fresh Herbs (Cilantro, Mint, Basil)",
+        "quantity": 1,
+        "unit": "bunch"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 800,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 60,
+    "difficulty": "Medium",
+    "preparation": "1. Simmer the beef broth with spices.\n2. Cook the pho noodles according to package instructions.\n3. Slice the beef sirloin very thinly.\n4. Assemble the soup by placing noodles in a bowl, then topping with raw beef slices.\n5. Pour the hot broth over the beef to cook it.\n6. Garnish with bean sprouts and fresh herbs.\n7. Serve immediately with a side of lime wedges and chili sauce."
+  },
+  {
+    "id": 23,
+    "name": "Vegan Tacos",
+    "description": "Tacos filled with spiced black beans, corn, avocado, and a zesty cashew cream sauce.",
+    "image": "pexels-los-muertos-crew-8230030.jpg",
+    "tags": [
+      "Vegan",
+      "Mexican",
+      "Tacos",
+      "Beans",
+      "Avocado",
+      "Healthy",
+      "Brunch"
+    ],
+    "ingredients": [
+      {
+        "name": "Taco Shells",
+        "quantity": 8,
+        "unit": ""
+      },
+      {
+        "name": "Black Beans",
+        "quantity": 1,
+        "unit": "can"
+      },
+      {
+        "name": "Corn",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Avocado",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Cashew Cream Sauce",
+        "quantity": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 800,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.6,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "preparation": "1. Heat the black beans and corn together in a pan.\n2. Prepare the cashew cream sauce according to instructions.\n3. Slice the avocado.\n4. Assemble the tacos by filling each shell with the bean and corn mixture, then topping with avocado slices and cashew cream sauce.\n5. Serve immediately with a side of salsa and lime wedges."
+  },
+  {
+    "id": 28,
+    "name": "Banana Bread",
+    "description": "A moist, sweet bread made with ripe bananas and a hint of cinnamon.",
+    "image": "pexels-craig-dennis-1277202.jpg",
+    "tags": [
+      "Baking",
+      "Bread",
+      "Banana",
+      "Comfort",
+      "Breakfast",
+      "Party Snacks",
+      "Snacks"
+    ],
+    "ingredients": [
+      {
+        "name": "Ripe Bananas",
+        "quantity": 3,
+        "unit": ""
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Flour",
+        "quantity": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Butter",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 2,
+        "unit": ""
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 2500,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 360,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.8,
+    "cookingTime": 60,
+    "difficulty": "Medium",
+    "preparation": "1. Preheat oven to 350°F.\n2. Mash bananas in a large bowl.\n3. Add melted butter, sugar, beaten eggs, and vanilla extract to the bowl and mix well.\n4. Add flour, baking soda, salt, and cinnamon to the bowl and mix until just combined.\n5. Pour batter into a greased loaf pan.\n6. Bake for about 60 minutes, or until a toothpick comes out clean.\n7. Allow to cool in the pan for a few minutes, then remove and cool completely on a wire rack."
+  },
+  {
+    "id": 31,
+    "name": "Chicken Tikka Masala",
+    "description": "A popular Indian dish made with marinated chicken in a creamy tomato sauce, served with rice and naan.",
+    "image": "pexels-prabal-pratap-singh-9609838.jpg",
+    "tags": ["Chicken", "Indian", "Spicy", "Comfort", "Main Courses"],
+    "ingredients": [
+      {
+        "name": "Chicken Breasts",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Tikka Masala Sauce",
+        "quantity": 1,
+        "unit": "jar"
+      },
+      {
+        "name": "Basmati Rice",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Naan Bread",
+        "quantity": 2,
+        "unit": ""
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 1500,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.8,
+    "cookingTime": 60,
+    "difficulty": "Medium",
+    "preparation": "1. Marinate the chicken in a mixture of yogurt and spices, then grill until fully cooked.\n2. Heat the tikka masala sauce in a pan.\n3. Add the cooked chicken to the sauce and simmer for 15-20 minutes.\n4. Serve with cooked basmati rice and warm naan bread."
+  },
+
+  {
+    "id": 33,
+    "name": "Sauerbraten",
+    "description": "A traditional German pot roast marinated in a flavorful mixture.",
+    "image": "pexels-pixabay-236887.jpg",
+    "tags": [
+      "Beef",
+      "German",
+      "Germany",
+      "Dinner",
+      "Roast",
+      "Dinner",
+      "Traditional",
+      "Marinated",
+      "Savory"
+    ],
+    "ingredients": [
+      {
+        "name": "Beef Roast",
+        "quantity": 3,
+        "unit": "lbs"
+      },
+      {
+        "name": "Red Wine Vinegar",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Water",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "large"
+      },
+      {
+        "name": "Carrots",
+        "quantity": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "Celery",
+        "quantity": 2,
+        "unit": "ribs"
+      },
+      {
+        "name": "Bay Leaves",
+        "quantity": 2,
+        "unit": "leaves"
+      },
+      {
+        "name": "Cloves",
+        "quantity": 6,
+        "unit": "whole"
+      },
+      {
+        "name": "Peppercorns",
+        "quantity": 10,
+        "unit": "whole"
+      },
+      {
+        "name": "Juniper Berries",
+        "quantity": 5,
+        "unit": "berries"
+      },
+      {
+        "name": "Gingersnap Cookies",
+        "quantity": 6,
+        "unit": "cookies"
+      },
+      {
+        "name": "Butter",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Flour",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 500,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.6,
+    "cookingTime": 180,
+    "difficulty": "Medium",
+    "preparation": "1. In a large bowl, combine red wine vinegar, water, chopped onion, sliced carrots, chopped celery, bay leaves, cloves, peppercorns, and juniper berries.\n2. Place the beef roast in the marinade, cover, and refrigerate for 2-3 days.\n3. Remove the beef from the marinade and pat dry with paper towels. Strain and reserve the marinade.\n4. In a Dutch oven, melt butter over medium heat. Add the beef and brown on all sides.\n5. Sprinkle flour and salt over the beef. Stir to coat.\n6. Pour the reserved marinade into the Dutch oven. Cover and simmer for 2-3 hours, or until beef is tender.\n7. Remove the beef from the pot and keep warm.\n8. Strain the cooking liquid and return it to the pot. Add gingersnap cookies and cook over medium heat until the sauce thickens.\n9. Slice the beef and serve with the sauce."
+  },
+  {
+    "id": 34,
+    "name": "Wiener Schnitzel",
+    "description": "A classic Austrian dish of breaded and fried veal cutlets.",
+    "image": "pexels-lukas-1352270.jpg",
+    "tags": [
+      "Veal",
+      "Austrian",
+      "Austria",
+      "Dinner",
+      "Traditional",
+      "Breaded",
+      "Fried",
+      "Lunch",
+      "Main Courses"
+    ],
+    "ingredients": [
+      {
+        "name": "Veal Cutlets",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 3,
+        "unit": ""
+      },
+      {
+        "name": "Breadcrumbs",
+        "quantity": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Vegetable Oil",
+        "quantity": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Fresh Parsley",
+        "quantity": 2,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 600,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "preparation": "1. Place veal cutlets between two sheets of plastic wrap and pound with a meat mallet until thin.\n2. Season the veal cutlets with salt and black pepper.\n3. Place flour in a shallow dish. In another shallow dish, beat eggs. Place breadcrumbs in a third shallow dish.\n4. Dredge each veal cutlet in flour, shaking off excess. Dip in beaten eggs, then coat with breadcrumbs, pressing firmly to adhere.\n5. Heat vegetable oil in a large skillet over medium heat. Fry the breaded veal cutlets until golden brown and cooked through, about 3-4 minutes per side.\n6. Remove the veal cutlets from the skillet and drain on paper towels.\n7. Serve the Wiener Schnitzel with lemon wedges and garnish with fresh parsley."
+  },
+  {
+    "id": 36,
+    "name": "Bratwurst with Sauerkraut",
+    "description": "A classic German dish featuring grilled bratwurst sausages served with tangy sauerkraut.",
+    "image": "pexels-mali-maeder-929137.jpg",
+    "tags": [
+      "German",
+      "Germany",
+      "Sausage",
+      "Grill",
+      "Dinner",
+      "Traditional",
+      "Lunch",
+      "Party Snacks"
+    ],
+    "ingredients": [
+      {
+        "name": "Bratwurst Sausages",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Sauerkraut",
+        "quantity": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "large"
+      },
+      {
+        "name": "Apple",
+        "quantity": 1,
+        "unit": "large"
+      },
+      {
+        "name": "Beer",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Caraway Seeds",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Mustard",
+        "quantity": 4,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Buns",
+        "quantity": 4,
+        "unit": ""
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 600,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 35,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.4,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "preparation": "1. Preheat the grill to medium heat.\n2. In a large skillet, heat oil over medium heat. Add sliced onions and diced apples. Cook until onions are golden brown and apples are tender.\n3. Add sauerkraut, beer, caraway seeds, salt, and black pepper to the skillet. Simmer for 10-15 minutes.\n4. Grill the bratwurst sausages for 10-12 minutes, turning occasionally, until cooked through and browned.\n5. Toast the buns on the grill.\n6. Place a grilled bratwurst in each bun. Top with sauerkraut mixture and mustard.\n7. Serve the bratwurst with sauerkraut hot."
+  },
+  {
+    "id": 37,
+    "name": "Tiramisu",
+    "description": "A classic Italian dessert made with layers of ladyfingers soaked in coffee and mascarpone cream.",
+    "image": "pexels-karina-ustiuzhanina-14122629.jpg",
+    "tags": [
+      "Dessert",
+      "Italian",
+      "Italy",
+      "Coffee",
+      "Mascarpone",
+      "Indulgent",
+      "Party Snacks",
+      "Desserts",
+      "Sweets"
+    ],
+    "ingredients": [
+      {
+        "name": "Ladyfingers",
+        "quantity": 24,
+        "unit": ""
+      },
+      {
+        "name": "Strong Coffee",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Mascarpone Cheese",
+        "quantity": 16,
+        "unit": "oz"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 4,
+        "unit": ""
+      },
+      {
+        "name": "Granulated Sugar ",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Cocoa Powder",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Vanilla Extract",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Rum or Marsala Wine",
+        "quantity": 2,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 400,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 35,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.9,
+    "cookingTime": 240,
+    "difficulty": "Medium",
+    "preparation": "1. Brew strong coffee and let it cool.\n2. In a mixing bowl, beat egg yolks and sugar until thick and pale yellow.\n3. Add mascarpone cheese, vanilla extract, and rum or Marsala wine to the egg yolk mixture. Mix until smooth.\n4. In a separate bowl, beat egg whites until stiff peaks form.\n5. Gently fold the beaten egg whites into the mascarpone mixture.\n6. Dip each ladyfinger into the cooled coffee for a few seconds, then arrange them in a single layer in a square or rectangular dish.\n7. Spread half of the mascarpone mixture over the layer of ladyfingers.\n8. Dip the remaining ladyfingers in coffee and place them on top of the mascarpone layer.\n9. Spread the remaining mascarpone mixture over the second layer of ladyfingers.\n10. Sift cocoa powder over the top of the tiramisu.\n11. Cover and refrigerate for at least 4 hours, or overnight, to allow the flavors to meld.\n12. Serve the tiramisu chilled."
+  },
+  {
+    "id": 38,
+    "name": "Goulash",
+    "description": "A hearty Hungarian stew made with tender beef, onions, and paprika.",
+    "image": "pexels-farhad-ibrahimzade-5713756.jpg",
+    "tags": [
+      "Beef",
+      "Hungarian",
+      "Stew",
+      "Comfort Food",
+      "Dinner",
+      "Lunch",
+      "Main Courses"
+    ],
+    "ingredients": [
+      {
+        "name": "Beef Chuck",
+        "quantity": 2,
+        "unit": "lbs"
+      },
+      {
+        "name": "Onion",
+        "quantity": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves"
+      },
+      {
+        "name": "Tomato Paste",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Beef Broth",
+        "quantity": 4,
+        "unit": "cups"
+      },
+      {
+        "name": "Sweet Paprika",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Caraway Seeds",
+        "quantity ": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Bay Leaves",
+        "quantity": 2,
+        "unit": "leaves"
+      },
+      {
+        "name": "Sour Cream",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Fresh Parsley",
+        "quantity": 2,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 500,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 180,
+    "difficulty": "Medium",
+    "preparation": "1. Cut beef chuck into bite-sized cubes.\n2. Heat oil in a large pot or Dutch oven over medium heat. Add chopped onions and minced garlic. Cook until onions are softened.\n3. Add beef cubes to the pot and cook until browned on all sides.\n4. Stir in tomato paste, sweet paprika, caraway seeds, salt, black pepper, and bay leaves.\n5. Pour in beef broth and bring to a simmer.\n6. Cover and cook over low heat for 2-3 hours, or until beef is tender.\n7. Remove bay leaves from the stew.\n8. Serve goulash hot, garnished with a dollop of sour cream and chopped fresh parsley. Serve with crusty bread or noodles."
+  },
+  {
+    "id": 39,
+    "name": "Kartoffelsalat",
+    "description": "A classic German potato salad made with boiled potatoes, onions, and a tangy dressing.",
+    "image": "pexels-alina-matveycheva-16269721.jpg",
+    "tags": [
+      "German",
+      "Germany",
+      "Potato",
+      "Salad",
+      "Side Dish",
+      "Cold",
+      "Desserts"
+    ],
+    "ingredients": [
+      {
+        "name": "Potatoes",
+        "quantity": 2,
+        "unit": "lbs"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "Vegetable Oil",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "White Wine Vinegar",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Dijon Mustard",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Fresh Parsley",
+        "quantity": 2,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 300,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 35,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.6,
+    "cookingTime": 45,
+    "difficulty": "Easy",
+    "preparation": "1. Boil the potatoes until tender. Drain and let cool.\n2. Peel and thinly slice the boiled potatoes. Place them in a large bowl.\n3. Finely chop the onion and add it to the bowl with the potatoes.\n4. In a separate bowl, whisk together vegetable oil, white wine vinegar, Dijon mustard, sugar, salt, and black pepper until well combined.\n5. Pour the dressing over the potatoes and onion. Toss gently to coat.\n6. Cover the bowl and refrigerate for at least 1 hour to allow the flavors to meld.\n7. Before serving, garnish the kartoffelsalat with chopped fresh parsley.\n8. Serve the potato salad chilled as a side dish."
+  },
+  {
+    "id": 40,
+    "name": "Avocado Toast",
+    "description": "A simple and nutritious breakfast recipe featuring creamy avocado spread on toasted bread.",
+    "image": "pexels-foodie-factor-566566.jpg",
+    "tags": [
+      "Breakfast",
+      "Avocado",
+      "Toast",
+      "Healthy",
+      "Quick",
+      "Easy",
+      "Vegetarian",
+      "Brunch",
+      "Light"
+    ],
+    "ingredients": [
+      {
+        "name": "Ripe Avocado",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Bread Slices",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "quantity": 4,
+        "unit": ""
+      },
+      {
+        "name": "Fresh Basil Leaves",
+        "quantity": 4,
+        "unit": ""
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "quantity": 1,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 250,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 25,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "preparation": "1. Cut the ripe avocado in half, remove the pit, and scoop out the flesh into a bowl.\n2. Mash the avocado with a fork until smooth and creamy.\n3. Add lemon juice, salt, black pepper, and red pepper flakes to the mashed avocado. Mix well.\n4. Toast the bread slices until golden brown and crispy.\n5. Spread the avocado mixture evenly on the toasted bread slices.\n6. Cut the cherry tomatoes into halves and place them on top of the avocado spread.\n7. Tear the fresh basil leaves into smaller pieces and sprinkle them over the tomatoes.\n8. Drizzle extra virgin olive oil over the assembled avocado toasts.\n9. Season with additional salt and pepper if desired.\n10. Serve the avocado toasts immediately as a delicious and healthy breakfast option."
+  },
+  {
+    "id": 41,
+    "name": "Banana Smoothie Bowl",
+    "description": "A refreshing and satisfying smoothie bowl made with ripe bananas, topped with nutritious fruits, nuts, and seeds.",
+    "image": "pexels-charlotte-may-5946800.jpg",
+    "tags": [
+      "Breakfast",
+      "Snacks",
+      "Smoothie",
+      "Bowl",
+      "Healthy",
+      "Quick",
+      "Easy",
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "ingredients": [
+      {
+        "name": "Ripe Bananas",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Frozen Mixed Berries",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Almond Milk",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Chia Seeds",
+        "quantity": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Sliced Fresh Fruits (e.g., strawberries, kiwi, mango)",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Mixed Nuts (e.g., almonds, walnuts)",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Coconut Flakes",
+        "quantity": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Honey or Maple Syrup",
+        "quantity": 1,
+        "unit": "tablespoon"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 350,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 55,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.8,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "preparation": "1. In a blender, combine ripe bananas, frozen mixed berries, almond milk, and chia seeds.\n2. Blend until smooth and creamy.\n3. Pour the banana smoothie into a bowl.\n4. Arrange sliced fresh fruits, mixed nuts, and coconut flakes on top of the smoothie.\n5. Drizzle honey or maple syrup over the toppings for added sweetness.\n6. Enjoy the banana smoothie bowl as a refreshing and nutritious breakfast or snack option."
+  },
+  {
+    "id": 43,
+    "name": "Vegetable Omelette",
+    "description": "A flavorful and nutritious omelette filled with a variety of vegetables, perfect for both breakfast and dinner.",
+    "image": "pexels-klaus-nielsen-6294354.jpg",
+    "tags": [
+      "Breakfast",
+      "Dinner",
+      "Omelette",
+      "Eggs",
+      "Vegetables",
+      "Healthy",
+      "Quick",
+      "Easy",
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "quantity": 3,
+        "unit": ""
+      },
+      {
+        "name": "Bell Peppers",
+        "quantity": 1,
+        "unit": "small, diced"
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": 4,
+        "unit": "sliced"
+      },
+      {
+        "name": "Spinach",
+        "quantity": 1,
+        "unit": "cup, chopped"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "quantity": 6,
+        "unit": "halved"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "small, diced"
+      },
+      {
+        "name": "Cheese (e.g., Cheddar, Swiss)",
+        "quantity": 1,
+        "unit": "ounce, grated"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Fresh Herbs (e.g., parsley, chives)",
+        "quantity": 1,
+        "unit": "tablespoon, chopped"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 250,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 18,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 16,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 8,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.9,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "preparation": "1. Heat olive oil in a non-stick skillet over medium heat.\n2. Add diced onion and sauté until translucent.\n3. Add bell peppers and mushrooms to the skillet. Cook until tender.\n4. In a bowl, beat the eggs and season with salt and black pepper.\n5. Pour the beaten eggs into the skillet with the vegetables.\n6. Gently stir the mixture to distribute the vegetables evenly.\n7. Cook the omelette until the edges are set and the center is slightly runny.\n8. Sprinkle grated cheese on one half of the omelette.\n9. Fold the other half of the omelette over the cheese.\n10. Cook for another minute or until the cheese has melted.\n11. Slide the omelette onto a plate.\n12. Garnish with halved cherry tomatoes and chopped fresh herbs.\n13. Serve the vegetable omelette warm for a satisfying breakfast or dinner option."
+  },
+  {
+    "id": 44,
+    "name": "Grilled Chicken Caesar Salad",
+    "description": "A delicious and satisfying salad with grilled chicken, crisp romaine lettuce, Parmesan cheese, and Caesar dressing, perfect for lunch or dinner.",
+    "image": "pexels-nadin-sh-16273760.jpg",
+    "tags": [
+      "Lunch",
+      "Dinner",
+      "Salad",
+      "Grilled Chicken",
+      "Romaine Lettuce",
+      "Parmesan Cheese",
+      "Caesar Dressing",
+      "Healthy",
+      "Quick",
+      "Easy",
+      "Gluten-Free"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless, Skinless Chicken Breasts",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Romaine Lettuce",
+        "quantity": 1,
+        "unit": "head, chopped"
+      },
+      {
+        "name": "Parmesan Cheese",
+        "quantity": 1,
+        "unit": "cup, shaved"
+      },
+      {
+        "name": "Croutons",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Caesar Dressing",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "cloves, minced"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 2,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 400,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 22,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 38,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 30,
+    "difficulty": "Medium",
+    "preparation": "1. Preheat the grill to medium-high heat.\n2. Season the chicken breasts with salt, black pepper, minced garlic, and olive oil.\n3. Grill the chicken breasts for about 6-8 minutes per side, or until cooked through.\n4. Remove the chicken from the grill and let it rest for a few minutes.\n5. Slice the grilled chicken into thin strips.\n6. In a large bowl, combine chopped romaine lettuce, shaved Parmesan cheese, and croutons.\n7. Drizzle Caesar dressing and lemon juice over the salad.\n8. Toss the salad gently to coat the ingredients evenly.\n9. Arrange the sliced grilled chicken on top of the salad.\n10. Serve the grilled chicken Caesar salad as a delicious and satisfying lunch or dinner option."
+  },
+
+  {
+    "id": 45,
+    "name": "Banana Pancakes with Chocolate Sauce",
+    "description": "Fluffy banana pancakes drizzled with rich chocolate sauce, a delightful combination for both breakfast and dessert.",
+    "image": "pexels-nurgül-kelebek-16025868.jpg",
+    "tags": [
+      "Breakfast",
+      "Desserts",
+      "Pancakes",
+      "Banana",
+      "Chocolate",
+      "Sweets",
+      "Indulgent",
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "Ripe Bananas",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "All-Purpose Flour",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Baking Powder",
+        "quantity": 2,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Milk",
+        "quantity": 3,
+        "unit": "/4 cup"
+      },
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Vanilla Extract",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Butter",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Chocolate Chips",
+        "quantity": 1,
+        "unit": "/4 cup"
+      },
+      {
+        "name": "Heavy Cream",
+        "quantity": 1,
+        "unit": "/2 cup"
+      },
+      {
+        "name": "Powdered Sugar",
+        "quantity": 2,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 350,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 14,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 49,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.8,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "preparation": "1. In a mixing bowl, mash the ripe bananas with a fork until smooth.\n2. Add all-purpose flour, baking powder, and a pinch of salt to the bowl.\n3. In a separate bowl, whisk together milk, egg, and vanilla extract.\n4. Pour the milk mixture into the banana mixture and stir until well combined.\n5. Heat a non-stick skillet or griddle over medium heat and melt a tablespoon of butter.\n6. Pour 1/4 cup of pancake batter onto the skillet for each pancake.\n7. Cook until bubbles form on the surface, then flip the pancakes and cook until golden brown on both sides.\n8. Repeat the process with the remaining batter, adding more butter to the skillet as needed.\n9. In a small saucepan, combine chocolate chips and heavy cream.\n10. Heat over low heat, stirring constantly, until the chocolate chips melt and the sauce becomes smooth.\n11. Remove the saucepan from heat and let the chocolate sauce cool slightly.\n12. Drizzle the chocolate sauce over the banana pancakes.\n13. Sprinkle powdered sugar on top for an extra touch of sweetness.\n14. Serve the banana pancakes with chocolate sauce for a delightful breakfast or dessert treat."
+  },
+  {
+    "id": 46,
+    "name": "Avocado Toast with Poached Egg",
+    "description": "A delicious and satisfying brunch dish featuring creamy avocado spread on toasted bread topped with a perfectly poached egg.",
+    "image": "pexels-nicola-barts-7937463.jpg",
+    "tags": [
+      "Brunch",
+      "Avocado",
+      "Toast",
+      "Poached Egg",
+      "Healthy",
+      "Quick",
+      "Easy",
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ingredients": [
+      {
+        "name": "Ripe Avocado",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "Bread Slices",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "Eggs",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "name": "White Vinegar",
+        "quantity": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Fresh Chives",
+        "quantity": 1,
+        "unit": "tablespoon, chopped"
+      },
+      {
+        "name": "Red Chili Flakes",
+        "quantity": 1,
+        "unit": "pinch"
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 320,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 19,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 27,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.6,
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "preparation": "1. Cut the ripe avocado in half, remove the pit, and scoop out the flesh into a bowl.\n2. Mash the avocado with a fork until creamy.\n3. Add lemon juice, a pinch of salt, and a pinch of black pepper to the mashed avocado. Mix well.\n4. Toast the bread slices until golden and crispy.\n5. Spread the mashed avocado mixture evenly on the toasted bread slices.\n6. Fill a saucepan with water and bring it to a gentle simmer.\n7. Add white vinegar to the simmering water.\n8. Crack the eggs, one at a time, into a small bowl and carefully slide them into the simmering water.\n9. Poach the eggs for about 3-4 minutes until the egg whites are set but the yolks are still runny.\n10. Use a slotted spoon to remove the poached eggs from the water and drain any excess water.\n11. Place one poached egg on top of each avocado toast.\n12. Sprinkle fresh chives and red chili flakes over the poached eggs.\n13. Serve the avocado toast with poached egg as a delicious and satisfying brunch dish."
+  },
+  {
+    "id": 47,
+    "name": "Smoked Salmon Bagel with Cream Cheese",
+    "description": "A classic brunch favorite featuring a toasted bagel topped with creamy cream cheese, flavorful smoked salmon, and refreshing garnishes.",
+    "image": "pexels-elizabeth-zernetska-9001194.jpg",
+    "tags": [
+      "Brunch",
+      "Bagel",
+      "Smoked Salmon",
+      "Cream Cheese",
+      "Breakfast",
+      "Quick",
+      "Easy"
+    ],
+    "ingredients": [
+      {
+        "name": "Bagel",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Cream Cheese",
+        "quantity": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Smoked Salmon",
+        "quantity": 2,
+        "unit": "ounces"
+      },
+      {
+        "name": "Red Onion",
+        "quantity": "few thin slices",
+        "unit": ""
+      },
+      {
+        "name": "Capers",
+        "quantity": "1 tablespoon",
+        "unit": ""
+      },
+      {
+        "name": "Fresh Dill",
+        "quantity": "few sprigs",
+        "unit": ""
+      },
+      {
+        "name": "Lemon Wedges",
+        "quantity": "for serving",
+        "unit": ""
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 350,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 18,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.9,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "preparation": "1. Slice the bagel in half horizontally.\n2. Toast the bagel halves until lightly golden.\n3. Spread a tablespoon of cream cheese on each bagel half.\n4. Arrange the smoked salmon slices on top of the cream cheese.\n5. Place a few thin slices of red onion over the smoked salmon.\n6. Sprinkle capers evenly over the bagel.\n7. Garnish with fresh dill sprigs.\n8. Serve the smoked salmon bagel with cream cheese with lemon wedges on the side.\n9. Enjoy this classic brunch favorite!"
+  },
+  {
+    "id": 48,
+    "name": "Spinach and Mushroom Quiche",
+    "description": "A flavorful and satisfying brunch option, this spinach and mushroom quiche is made with a buttery crust and filled with a delicious mixture of sautéed spinach, mushrooms, cheese, and eggs.",
+    "image": "pexels-alesia-kozik-6072220.jpg",
+    "tags": [
+      "Brunch",
+      "Quiche",
+      "Spinach",
+      "Mushroom",
+      "Eggs",
+      "Cheese",
+      "Savory",
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "Pie Crust",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "Spinach",
+        "quantity": "2 cups",
+        "unit": "chopped"
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": "1 cup",
+        "unit": "sliced"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 4,
+        "unit": ""
+      },
+      {
+        "name": "Milk",
+        "quantity": "1 cup",
+        "unit": ""
+      },
+      {
+        "name": "Cheddar Cheese",
+        "quantity": "1 cup",
+        "unit": "shredded"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/2 teaspoon",
+        "unit": ""
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": "1/4 teaspoon",
+        "unit": ""
+      },
+      {
+        "name": "Garlic Powder",
+        "quantity": "1/4 teaspoon",
+        "unit": ""
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": "1 tablespoon",
+        "unit": ""
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 350,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 22,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 14,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 25,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.7,
+    "cookingTime": 60,
+    "difficulty": "Medium",
+    "preparation": "1. Preheat the oven to 375°F (190°C).\n2. In a skillet, heat olive oil over medium heat.\n3. Sauté the sliced mushrooms until they release their moisture and turn golden brown. Set aside.\n4. In the same skillet, add the chopped spinach and cook until wilted. Remove from heat and set aside.\n5. In a mixing bowl, whisk together the eggs, milk, salt, black pepper, and garlic powder.\n6. Roll out the pie crust and place it in a greased 9-inch pie dish.\n7. Layer the sautéed mushrooms and spinach on the bottom of the pie crust.\n8. Sprinkle shredded cheddar cheese over the vegetables.\n9. Pour the egg mixture over the filling.\n10. Place the quiche in the preheated oven and bake for 35-40 minutes, or until the center is set and the crust is golden brown.\n11. Remove from the oven and let it cool for a few minutes before slicing and serving.\n12. Enjoy the spinach and mushroom quiche warm or at room temperature as a delicious brunch option."
+  },
+  {
+    "id": 50,
+    "name": "Guacamole with Homemade Tortilla Chips",
+    "description": "This homemade guacamole with crispy tortilla chips is a classic and crowd-pleasing snack. Creamy and flavorful avocado dip paired with crunchy chips is perfect for any occasion.",
+    "image": "pexels-isabella-mendes-4411802.jpg",
+    "tags": [
+      "Snacks",
+      "Appetizers",
+      "Guacamole",
+      "Avocado",
+      "Tortilla Chips",
+      "Mexican",
+      "Easy",
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ingredients": [
+      {
+        "name": "Ripe Avocados",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "Lime",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "Red Onion",
+        "quantity": "1/4 cup",
+        "unit": "finely chopped"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1/2",
+        "unit": "diced"
+      },
+      {
+        "name": "Fresh Cilantro",
+        "quantity": "2 tablespoons",
+        "unit": "chopped"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "1 clove",
+        "unit": "minced"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/2 teaspoon",
+        "unit": ""
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": "1/4 teaspoon",
+        "unit": ""
+      },
+      {
+        "name": "Ripe Tomatoes",
+        "quantity": "4",
+        "unit": ""
+      },
+      {
+        "name": "Corn Tortillas",
+        "quantity": "6",
+        "unit": ""
+      },
+      {
+        "name": "Vegetable Oil",
+        "quantity": "2 tablespoons",
+        "unit": ""
+      }
+    ],
+    "nutrients": [
+      {
+        "name": "Calories",
+        "amount": 180,
+        "unit": "kcal"
+      },
+      {
+        "name": "Fat",
+        "amount": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Protein",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "amount": 18,
+        "unit": "g"
+      }
+    ],
+    "rating": 4.9,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "preparation": "1. Cut the avocados in half, remove the pits, and scoop the flesh into a bowl.\n2. Squeeze the juice of one lime over the avocado.\n3. Mash the avocado with a fork until it reaches your desired consistency.\n4. Add finely chopped red onion, diced tomato, chopped fresh cilantro, minced garlic, salt, and black pepper to the mashed avocado.\n5. Mix well to combine all the ingredients.\n6. In a separate pan, heat vegetable oil over medium heat.\n7. Cut the corn tortillas into triangles.\n8. Fry the tortilla triangles in batches until crispy and golden brown.\n9. Remove the chips from the pan and place them on a paper towel to drain excess oil.\n10. Season the chips with a pinch of salt.\n11. Serve the guacamole with the homemade tortilla chips and enjoy as a delicious snack or appetizer."
+  }
+]

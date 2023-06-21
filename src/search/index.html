@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="../global-styles.css" />
+    <script type="module" defer src="script.js"></script>
+    <script type="module" defer src="../main.js"></script>
+    <link rel="icon" type="image/x-icon" href="../favicon.png">
+    <title>Culinary Quest - Search</title>
+</head>
+
+<body class="max-w-view-screen ml-auto mr-auto">
+    <header class="flex flex-row items-center gap-2 p-2 h-20 shadow-lg">
+        <img src="../utilities/icon.png" id="icon" alt="icon" width="60" class="hidden xs:inline" />
+        <div class="h-12 flex flex-row border-solid border-black border-2 rounded-lg gap-2 flex-grow">
+            <img src="../utilities/magnifier.png" class="m-1" alt="magnifier" />
+            <input id="search-input" name="search-input" type="text" placeholder="Recipe name" class="flex-grow rounded-r-lg" />
+        </div>
+        <!-- <button
+        class="hidden sm:inline h-12 border-black border-2 rounded-lg p-2"
+      >
+        My collection
+      </button>
+      <button
+        class="hidden sm:inline h-12 border-black border-2 rounded-lg p-2"
+      >
+        Create new Recipe
+      </button> -->
+    </header>
+    <section class="filters pt-4">
+        <label for="rating">Minimal Rating:</label>
+        <select name="rating" id="rating">
+        <option value="1">1 Star</option>
+        <option value="2">2 Stars</option>
+        <option value="3">3 Stars</option>
+        <option value="4">4 Stars</option>
+        <option value="5">5 Stars</option>
+      </select>
+
+        <label for="duration">Maximal Duration:</label>
+        <select name="duration" id="duration">
+        <option value="15">15 minutes</option>
+        <option value="30">30 minutes</option>
+        <option value="45">45 minutes</option>
+        <option value="60">1 hour</option>
+        <option value="90">90 minutes</option>
+        <option value="120" selected>2 hours</option>
+        <option value="180" selected>3 hours</option>
+        <option value="240" selected>4 hours</option>
+        <option value="300" selected>5 hours</option>
+      </select>
+
+        <fieldset>
+            <legend>Nationalities</legend>
+            <div>
+                <input type="checkbox" id="germany" name="germany" />
+                <label for="germany">Germany</label>
+
+                <input type="checkbox" id="italy" name="italy" />
+                <label for="italy">Italy</label>
+
+                <input type="checkbox" id="spain" name="spain" />
+                <label for="spain">Spain</label>
+
+                <input type="checkbox" id="france" name="france" />
+                <label for="france">France</label>
+
+                <input type="checkbox" id="japan" name="japan" />
+                <label for="japan">Japan</label>
+
+                <input type="checkbox" id="america" name="america" />
+                <label for="america">America</label>
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <legend>Additional</legend>
+            <div>
+                <input type="checkbox" id="healthy" name="healthy" />
+                <label for="healthy">Healthy</label>
+
+                <input type="checkbox" id="vegetarian" name="vegetarian" />
+                <label for="vegetarian">Vegetarian</label>
+
+                <input type="checkbox" id="summer" name="summer" />
+                <label for="summer">Summer</label>
+
+                <input type="checkbox" id="dinner" name="dinner" />
+                <label for="dinner">Dinner</label>
+
+                <input type="checkbox" id="low-calorie" name="low-calorie" />
+                <label for="low-calorie">Low calorie</label>
+
+                <input type="checkbox" id="classic" name="classic" />
+                <label for="classic">Classic</label>
+            </div>
+        </fieldset>
+    </section>
+    <section class="filtered-recipes recipes-list"></section>
+    <footer></footer>
+</body>
+
+</html>

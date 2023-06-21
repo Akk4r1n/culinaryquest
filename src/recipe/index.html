@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="../global-styles.css" />
+    <script type="module" defer src="script.js"></script>
+    <script type="module" defer src="../main.js"></script>
+    <link rel="icon" type="image/x-icon" href="../favicon.png">
+    <title>Culinary Quest - Classic Cheeseburger</title>
+</head>
+
+<body class="max-w-view-screen ml-auto mr-auto">
+    <button value="home" class="fixed top-4 left-4 text-gray-800 bg-white rounded-full p-1 bg-opacity-50" onclick="window.location.href = '..'">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
+      </svg>
+      
+  </button>
+    <button value="back" class="fixed top-4 left-14 text-gray-800 bg-white rounded-full p-1 bg-opacity-50" onclick="history.back()">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="1.5"
+        stroke="currentColor"
+        class="w-6 h-6"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18"
+        />
+      </svg>
+    </button>
+    <section class="bg-gray-200 md:grid md:grid-rows-3 md:grid-cols-2 lg:grid-rows-2 lg:grid-cols-3 w-full h-full">
+        <div class="image-container lg:col-start-2 lg:col-span-2 md:row-start-1 md:col-start-1 md:col-span-2 md:row-span-1 md:col-span-2">
+            <img id="recipe-image" src="../utilities/image-not-found.png" onerror="this.onerror=null;this.src='../utilities/image-not-found.png'" alt="image" class="aspect-square object-cover shadow-lg w-full h-full rounded-br-3xl rounded-bl-3xl" />
+        </div>
+        <div class="ingredients-container lg:flex lg:flex-col lg:items-center lg:gap-2 lg:translate-y-20 lg:row-start-1 lg:col-span-1 md:row-start-2 md:col-start-1 md:col-span-2 lg:grid-rows-2 lg:grid-cols-2">
+            <h1 class="text-lg font-semibold pl-2">Ingredients</h1>
+
+            <div class="h-10 flex flex-row items-center">
+                <div class="flex flex-row pl-2 gap-4 items-center">
+                    <span class="text-gray-700">Serves</span>
+                    <button id="serve-decrease-button" value="decrease-serving" class="bg-orange-400 rounded-full p-1 text-white disabled:bg-orange-200">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-7 h-7"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M19.5 12h-15"
+                />
+              </svg>
+            </button>
+                    <span id="recipe-portions" class="font-bold"></span>
+                    <button id="serve-increase-button" value="increase-serving" class="bg-orange-400 rounded-full p-1 text-white disabled:bg-orange-200">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-7 h-7"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 4.5v15m7.5-7.5h-15"
+                />
+              </svg>
+            </button>
+                </div>
+            </div>
+            <div id="recipe-ingredients" class="bg-slate-200 grid grid-cols-2 lg:flex flex-col items-center"></div>
+        </div>
+        <div class="detail-container shadow-lg bg-slate-200 overflow-auto md:row-start-3 md:col-start-1 md:col-span-2 lg:row-start-2 lg:col-start-2 lg:col-span-2 rounded-tr-3xl">
+            <div class="w-full pt-2 rounded-t-2xl -translate-y-4 z-10 bg-slate-200 flex flex-col gap-2">
+                <span id="recipe-title" class="text-lg font-semibold block text-center pt-4"></span>
+                <div class="flex flex-row h-10 items-center p-1 pl-4 gap-2">
+                    <span id="recipe-difficulty" class=""></span>
+                    <img src="../utilities/difficulty.png" alt="difficulty-bar" class="h-full aspect-square" />
+                </div>
+                <div class="w-full border-gray-300 border-t-1"></div>
+                <div class="flex flex-row h-10 items-center p-2 gap-2 pl-4">
+                    <span id="recipe-rating"></span>
+                    <img src="../utilities/star.png" alt="rating" class="h-full aspect-square" />
+                </div>
+                <div class="w-full border-gray-300 border-t-1"></div>
+                <h1 class="text-lg font-semibold pl-2">Tags</h1>
+                <div class="flex flex-row gap-2 overflow-auto w-full p-2 pb-4" id="recipe-tags"></div>
+                <div class="w-full border-gray-300 border-t-1"></div>
+                <div class="ingredients-container lg:col-start-1 lg:row-start-1">
+                    <div class="ingredients-container"></div>
+                </div>
+            </div>
+
+            <div class="w-full border-gray-300 border-t-1"></div>
+            <h1 class="text-lg font-semibold pl-2">Nutrition per Serving</h1>
+            <div class="flex flex-row gap-2 pl-2 pr-2">
+                <div class="flex flex-col flex-grow items-center">
+                    <span class="font-bold">Cal</span>
+                    <span id="recipe-calories" class="text-gray-500 font-semibold"></span>
+                </div>
+                <div class="border-gray-300 border-r-1"></div>
+                <div class="flex flex-col flex-grow items-center">
+                    <span class="font-bold">Fat</span>
+                    <span id="recipe-fat" class="text-gray-500 font-semibold"></span>
+                </div>
+                <div class="border-gray-300 border-r-1"></div>
+                <div class="flex flex-col flex-grow items-center">
+                    <span class="font-bold">Protein</span>
+                    <span id="recipe-protein" class="text-gray-500 font-semibold"></span>
+                </div>
+                <div class="border-gray-300 border-r-1"></div>
+                <div class="flex flex-col flex-grow items-center">
+                    <span class="font-bold">Carb</span>
+                    <span id="recipe-carb" class="text-gray-500 font-semibold"></span>
+                </div>
+            </div>
+            <div class="w-full border-gray-300 border-t-1"></div>
+            <h1 class="text-lg font-semibold pl-2">Preperation</h1>
+            <div id="recipe-preparations" class="pl-2 pr-2"></div>
+            <div class="w-full border-gray-300 border-t-1"></div>
+        </div>
+        <div class="similar-container md:row-start-1 md:col-start-4 p-2 md:flex md:flex-col md:row-span-3 bg-slate-200">
+            <h1 class="text-lg text-center font-semibold pl-2">Similar recipes</h1>
+            <div id="recipe-similars" class="flex flex-row gap-4 pl-2 pr-2 w-full overflow-auto pb-4 md:flex-col md:items-center bg-gray-200"></div>
+        </div>
+    </section>
+
+    <footer></footer>
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+.mdc-notched-outline__notch {
+  border-right: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+html,
+body {
+  height: 100%;
+}

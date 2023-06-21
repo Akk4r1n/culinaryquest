@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+  frontend:
+    container_name: culinaryquest
+    build: .
+    networks:
+      - gateway
+
+networks:
+  gateway:
+    external: true

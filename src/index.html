@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="carousel.css" />
+    <link rel="stylesheet" type="text/css" href="global-styles.css" />
+    <script type="module" defer src="./script.js"></script>
+    <script type="module" defer src="./main.js"></script>
+    <link rel="icon" type="image/x-icon" href="./favicon.png" />
+    <title>Culinary Quest</title>
+  </head>
+
+  <body class="max-w-view-screen ml-auto mr-auto">
+    <header class="flex flex-row items-center gap-2 p-2 h-20">
+      <img
+        src="utilities/icon.png"
+        alt="icon"
+        width="60"
+        class="hidden xs:inline"
+      />
+      <div
+        class="h-12 flex flex-row border-solid border-black border-2 rounded-lg gap-2 flex-grow"
+      >
+        <img src="utilities/magnifier.png" class="m-1" alt="magnifier" />
+        <input
+          id="search-input"
+          name="search-input"
+          type="text"
+          placeholder="Recipe name"
+          class="flex-grow rounded-r-lg"
+        />
+      </div>
+    </header>
+    <section class="recipes-of-the-day">
+      <h1 class="block text-center text-2xl">Todays favorites</h1>
+      <div class="slider"></div>
+    </section>
+    <div id="tags" class="flex flex-row gap-2 flex-wrap p-2 gap-y-2"></div>
+    <section class="tagged-recipes">
+      <div class="classic-recipes recipes-list flex gap-4 flex-wrap p-2"></div>
+    </section>
+    <footer></footer>
+  </body>
+</html>
