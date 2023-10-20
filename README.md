@@ -54,9 +54,9 @@ npm run dev
 4. Open your web browser and visit http://localhost:3000 to see the website in action!
    Deployment
 
-## Deployment
+## Deployment using Docker manually
 
-To deploy the Culinary Quest Recipe Collection website using Docker, make sure you have Docker installed on your machine. Then, follow these steps:
+To deploy the Culinary Quest Recipe Collection website using Docker manually, make sure you have Docker installed on your machine. Then, follow these steps:
 
 1. Build the Docker image:
 
@@ -71,6 +71,20 @@ docker run -p 80:80 culinary-quest
 ```
 
 3. Access the website by visiting http://localhost in your web browser.
+
+## Deployment using Docker-Compose and the deployment profiles
+
+To deploy the Culinary Quest Recipe Collection website using Docker with the specified deployment profiles, make sure you have Docker and Docker-Compose installed on your machine. Then, follow these steps:
+
+1. Navigate to the desired deployment profile inside the `deployment` folder
+2. Create a file `nginx.conf` from the template file `nginx.template.conf` and modify it
+3. Start the Stack:
+
+```bash
+docker compose up -d --build
+```
+
+> The gateway approach uses dns to properly route to projects and services. Either get the configured domain or set a local one for development. In Windows this can be configured in the file `C:\Windows\System32\drivers\etc\hosts`. Under linux this can be configured in the file `/etc/hosts`.
 
 ## Technologies Used
 
