@@ -1,0 +1,27 @@
+version: "3.7"
+name: culinaryquest
+
+services:
+  gateway:
+    container_name: culinaryquest_gateway
+    image: nginx:1.21.4
+    networks:
+      - frontend
+      - gateway
+    depends_on:
+      - frontend
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/nginx.conf
+    ports:
+      - 15001:80
+
+  frontend:
+    build: ../../
+    container_name: culinaryquest_frontend
+    networks:
+      - frontend
+
+networks:
+  frontend:
+  gateway:
+    external: true
